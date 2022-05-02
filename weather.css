@@ -32,6 +32,10 @@
     font-weight: bold;
 
 }
+#weather button :hover{
+    background-color: aquamarine;
+    color: black;
+}
 #displaydiv{
     text-align: center;
     color: blue;
