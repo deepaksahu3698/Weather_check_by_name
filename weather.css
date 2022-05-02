@@ -1,0 +1,41 @@
+#cont {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#weather,
+#map {
+    border: 1px solid black;
+    height: 650px;
+    width: 80%;
+    margin: 10px;
+}
+
+#weather input {
+    display: inline;
+    height: 40px;
+    width: 450px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+    background-color: #ada7a7;
+}
+
+#weather button {
+    height: 60px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#displaydiv{
+    text-align: center;
+    color: blue;
+}
+#displaydiv h3{
+    color:  black;
+}
