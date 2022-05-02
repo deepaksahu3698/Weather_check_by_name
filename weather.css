@@ -32,7 +32,7 @@
     font-weight: bold;
 
 }
-#weather button :hover{
+ button:hover{
     background-color: aquamarine;
     color: black;
 }
